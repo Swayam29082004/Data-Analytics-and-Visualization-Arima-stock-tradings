@@ -28,9 +28,9 @@ This project is focused on forecasting stock prices using the **ARIMA (AutoRegre
 
 ##🖼️ Example Screenshots
 - 1. 📊 Forecasted Stock Prices with Buy/Sell Signals
-<img src="C:\Users\hp\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-05 150228.png"  width="200" height="400" />
+<img src="E:\B tech\SEM6\Data Analytics and Visualization\Data-Analytics-and-Visualization-Arima-stock-tradings\Data-Analytics-and-Visualization-Arima-stock-tradings\screeshort\Screenshot 2025-06-05 150211.png"  width="200" height="400" />
 - 2. 📈 Historical vs Predicted Prices
-<img src="C:\Users\hp\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-05 150211.png"  width="200" height="400" />
+<img src="E:\B tech\SEM6\Data Analytics and Visualization\Data-Analytics-and-Visualization-Arima-stock-tradings\Data-Analytics-and-Visualization-Arima-stock-tradings\screeshort\Screenshot 2025-06-05 150228.png"  width="200" height="400" />
 
 ---
 
