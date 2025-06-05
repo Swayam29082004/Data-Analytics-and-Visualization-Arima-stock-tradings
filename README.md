@@ -26,11 +26,14 @@ This project is focused on forecasting stock prices using the **ARIMA (AutoRegre
 - `datetime` – date range generation
 - `warnings` – suppress warnings for clean output
 
-##🖼️ Example Screenshots
-- 1. 📊 Forecasted Stock Prices with Buy/Sell Signals
-<img src="E:\B tech\SEM6\Data Analytics and Visualization\Data-Analytics-and-Visualization-Arima-stock-tradings\Data-Analytics-and-Visualization-Arima-stock-tradings\screeshort\Screenshot 2025-06-05 150211.png"  width="200" height="400" />
-- 2. 📈 Historical vs Predicted Prices
-<img src="E:\B tech\SEM6\Data Analytics and Visualization\Data-Analytics-and-Visualization-Arima-stock-tradings\Data-Analytics-and-Visualization-Arima-stock-tradings\screeshort\Screenshot 2025-06-05 150228.png"  width="200" height="400" />
+## 🖼️ Example Screenshots
+
+- 1. 📊 ARIMA Forecasted Stock Prices with Buy/Sell Signals  
+  <img src="screenshot/forecast.png" width="400" />
+
+- 2. 📈 AAPL Stock Forecast  
+  <img src="screenshot/stock_forecast.png" width="400" />
+
 
 ---
 
