@@ -29,12 +29,10 @@ This project is focused on forecasting stock prices using the **ARIMA (AutoRegre
 ## 🖼️ Example Screenshots
 
 - 1. 📊 ARIMA Forecasted Stock Prices with Buy/Sell Signals  
-  <img src="screenshot/forecast.png" width="400" />
+  <img src="screenshot/forecast.png" width="400" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;" />
 
 - 2. 📈 AAPL Stock Forecast  
-  <img src="screenshot/stock_forecast.png" width="400" />
-
-
+  <img src="screenshot/stock_forecast.png" width="400" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;" />
 
 ---
 
